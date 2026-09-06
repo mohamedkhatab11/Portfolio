@@ -1,0 +1,10 @@
+Muhammad Khattab Portfolio — Final
+===================================
+Included:
+- Responsive mobile improvements
+- Animations and hover effects
+- Profile photo
+- Working Download CV button
+- CV PDF included in assets/
+
+Ready to upload to GitHub/Vercel.
